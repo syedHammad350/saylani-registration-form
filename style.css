@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading1{
+    
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.lst{
+    text-align: center;
+}
+.heading2{
+    
+    margin-top: 20px;
+    color: blue;
+    display: flex;
+    gap: 200px;
+}
+.inp2{
+    margin-left: 200px;
+    display: flex;
+    gap: 50px;
+}
+.heading3{
+    
+    margin-top: 20px;
+    color: blue;
+    display: flex;
+    gap: 200px;
+}
+.inp3{
+    margin-left: 200px;
+    display: flex;
+    gap: 50px;
+}
+.heading4{
+    
+    margin-top: 20px;
+    color: blue;
+    display: flex;
+    gap: 200px;
+}
+.inp4{
+    margin-left: 200px;
+    display: flex;
+    gap: 50px;
+}
+.heading5{
+    
+    margin-top: 20px;
+    color: blue;
+    display: flex;
+    gap: 200px;
+}
+.inp5{
+    margin-left: 200px;
+    display: flex;
+    gap: 50px;
+}
+.heading6{
+    
+    margin-top: 20px;
+    color: blue;
+    display: flex;
+    gap: 200px;
+}
+.inp6{
+    margin-left: 200px;
+    display: flex;
+    gap: 50px;
+}
+.heading7{
+    
+    margin-top: 20px;
+    color: blue;
+    display: flex;
+    gap: 200px;
+}
+.inp7{
+    margin-left: 200px;
+    display: flex;
+    gap: 50px;
+}
+.para1{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.para2{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.para3{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.container_para{
+    display: flex;
+    gap: 30px;
+    margin-left: 200px;
+
+}
+.container{
+    height: 80px;
+    width: 100px;
+    border: 1px solid black;
+}
+.paras{
+    margin-left: 200px;
+   margin-top: 20px;
+}
